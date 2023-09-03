@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 //CHAPTER 1 OF JAVA
+
+
 public class Main {
     static int sum(int a,int b){
 int c=a+b;
@@ -26,6 +28,8 @@ int c=a+b;
         System.out.println(c);
         System.out.println(bgmiplayer);
 */
+
+        //##########################################
         //inputs
         Scanner scan = new Scanner(System.in);
         System.out.println("type something dear");
@@ -42,12 +46,17 @@ int c=a+b;
         System.out.println(user.endsWith("an"));
         System.out.println(user.indexOf("he")); */
 
+
+        //##########################################
         //math
 //        int d=9 ,p=6;
 //        System.out.println(Math.max(d, p)) ;
 //        System.out.println(Math.abs(-99));
 //        System.out.println(2+(5-2)*Math.random());
 
+
+
+        //##########################################
         //if-else
         int z=5;
         if(z<2)
@@ -58,6 +67,10 @@ int c=a+b;
             System.out.println("z is greater than 2");
         }
 
+
+
+
+        //##########################################
         //loop>for ,, while ,, switch
         //break ,, continue
 //
